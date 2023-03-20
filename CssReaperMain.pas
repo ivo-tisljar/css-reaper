@@ -24,9 +24,11 @@ type
 var
   Form1: TForm1;
 
+
 implementation
 
 {$R *.dfm}
+
 
 procedure ReapCssFile (const FileName: string; Properties: TStringList);
 var
@@ -39,11 +41,11 @@ begin
     for Line := 0 to CssFile.Count-1 do
       if CssFile[Line][1] = #9 then
         Properties.Append(CssFile[Line]);
-//        Properties.AddStrings(CssFile);
   finally
     FreeAndNil(CssFile);
   end;
 end;
+
 
 function ReapCssFilesFromFolder (const FolderName: string; Properties: TStringList): integer;
 var
@@ -51,21 +53,24 @@ var
   FilesCount : integer;
 begin
   FilesCount := 0;
+
   if FindFirst(FolderName + '\*.*', faDirectory, SearchRec) = 0 then
     repeat
       if (SearchRec.Name <> '.') And (SearchRec.Name <> '..') And ((SearchRec.Attr and faDirectory) <> 0) then
         Inc (FilesCount, ReapCssFilesFromFolder(FolderName + '\' + SearchRec.Name, Properties));
     until FindNext(SearchRec) <> 0;
-  FindClose(SearchRec);
+
   if FindFirst(FolderName + '\*.css', faAnyFile, SearchRec) = 0 then
     repeat
       if (SearchRec.Attr and faDirectory) = 0 then
         ReapCssFile(FolderName + '\' + SearchRec.Name, Properties);
       Inc (FilesCount);
     until FindNext(SearchRec) <> 0;
+
   FindClose(SearchRec);
   Result := FilesCount;
 end;
+
 
 function ReapCssFiles(const RootFolderName, PropertiesFileName: string): string;
 var
@@ -81,7 +86,7 @@ begin
     Properties.SaveToFile(PropertiesFileName, TEncoding.UTF8);
     PropertiesCount := Properties.Count;
     FreeAndNil(Properties);
-    result := 'Reaper has found ' + IntToStr(FilesCount) + ' CSS files with ' + IntToStr(PropertiesCount) + ' properties';
+    Result := 'Reaper has found ' + IntToStr(FilesCount) + ' CSS files with ' + IntToStr(PropertiesCount) + ' properties';
   end;
 end;
 
@@ -90,5 +95,6 @@ procedure TForm1.acReapCssFilesExecute(Sender: TObject);
 begin
   EditResult.Text := ReapCssFiles(EditRootCssFolder.Text, EditOutputFileName.Text);
 end;
+
 
 end.

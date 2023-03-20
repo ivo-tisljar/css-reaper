@@ -32,7 +32,7 @@ object Form1: TForm1
     EditLabel.Height = 15
     EditLabel.Caption = 'Output File Name'
     TabOrder = 1
-    Text = 'D:\_Repos\css-reaper\css-reaper.css'
+    Text = 'D:\_Repos\css-reaper (delphi11)\css-reaper.css'
   end
   object EditResult: TLabeledEdit
     Left = 32
