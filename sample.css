@@ -1,0 +1,2479 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+a._idGenColorInherit {
+	color:inherit;
+}
+div.objekt {
+	border-style:solid;
+}
+table.No-Table-Style {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+td.No-Table-Style {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+p._-podnaslov {
+	-epub-hyphens:none;
+	color:#dc8d22;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.13;
+	list-style-position:outside;
+	list-style-type:decimal;
+	margin-bottom:3px;
+	margin-left:23px;
+	margin-right:0;
+	margin-top:11px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-11px;
+	text-transform:uppercase;
+	widows:1;
+}
+p._-1--podnaslov {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.13;
+	list-style-position:outside;
+	list-style-type:decimal;
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:0;
+	margin-top:11px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-18px;
+	text-transform:uppercase;
+	widows:1;
+}
+p._-1-1--podnaslov {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.13;
+	list-style-position:outside;
+	list-style-type:decimal;
+	margin-bottom:3px;
+	margin-left:37px;
+	margin-right:0;
+	margin-top:11px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-28px;
+	text-transform:none;
+	widows:1;
+}
+p._-dio-sazetka {
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p._-dio-sazetka-s-crtom {
+	border-color:#dc8d22;
+	border-style:solid;
+	border-width:0px 0px 2px 0px;
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:11px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p.Autor {
+	color:#000000;
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.091;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Fusnota {
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.125;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:9px;
+	text-transform:none;
+	widows:1;
+}
+p.Glavni-naslov {
+	-epub-hyphens:none;
+	color:#dc8d22;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:30px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.033;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Knjizenje2 {
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.13;
+	list-style-position:inside;
+	margin-bottom:3px;
+	margin-left:11px;
+	margin-right:0;
+	margin-top:3px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Okvir {
+	background-color:#fcecd5;
+	border-color:#dc8d22;
+	border-style:solid;
+	border-width:1px 1px 1px 1px;
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.135;
+	margin-bottom:11px;
+	margin-left:6px;
+	margin-right:6px;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p.Primjer-s-brojkom {
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.13;
+	list-style-position:inside;
+	margin-bottom:1px;
+	margin-left:11px;
+	margin-right:0;
+	margin-top:3px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Tablica-pomak {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.13;
+	margin-bottom:6px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Tekst-glavni {
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.135;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p.UDK {
+	color:#000000;
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.091;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.objasnjenje {
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:9px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.167;
+	margin-bottom:11px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p.pozadina {
+	background-color:#e6e6e6;
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.135;
+	margin-bottom:11px;
+	margin-left:6px;
+	margin-right:6px;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p.storno {
+	-epub-hyphens:none;
+	border-color:#dc8d22;
+	border-style:solid;
+	border-width:1px 1px 1px 1px;
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.333;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.uvlaka {
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.135;
+	margin-bottom:0;
+	margin-left:23px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:-11px;
+	text-transform:none;
+	widows:1;
+}
+p.uvlaka-crtica {
+	color:#000000;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.135;
+	list-style-position:outside;
+	margin-bottom:0;
+	margin-left:23px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:-11px;
+	text-transform:none;
+	widows:1;
+}
+span.Hiperveza {
+	color:#dc8d22;
+	text-decoration:none;
+}
+span.Knjiženja-1 {
+	color:#dc8d22;
+	font-family:"Utopia Bold", serif;
+	font-style:italic;
+	font-weight:bold;
+}
+span.Utopia-italic {
+	font-family:Utopia, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.fusnote_fusnota-brojka {
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+	vertical-align:super;
+}
+span.fusnote_fusnota-brojka-u-tekstu {
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	vertical-align:super;
+}
+span.fusnote_fusnota-italic {
+	font-family:"Myriad Pro", sans-serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.primjer {
+	color:#dc8d22;
+	font-family:"Utopia Bold", serif;
+	font-size:10px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+span.tekst-glavni_Utopia-italic {
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.tekst-glavni_Utopia-regular {
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.tekst-glavni_Utopia-semibold {
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:600;
+}
+span.tekst-glavni_Utopia-semibold-crveni {
+	color:#dc8d22;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:600;
+}
+span.tekst-glavni_Utopia-semibold-italic {
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:italic;
+	font-weight:600;
+}
+span.tekst-glavni_Utopia-semibold-italic-crveni {
+	color:#dc8d22;
+	font-family:Utopia, serif;
+	font-size:10px;
+	font-style:italic;
+	font-weight:600;
+}
+table.TableOverride-1 {
+	border-collapse:collapse;
+	border-width:1px;
+	margin-bottom:6px;
+	margin-top:9px;
+}
+table.TableOverride-2 {
+	border-collapse:collapse;
+	border-style:none;
+	border-width:0px;
+	margin-bottom:6px;
+	margin-top:6px;
+}
+table.TableOverride-3 {
+	border-collapse:collapse;
+	margin-bottom:6px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:6px;
+}
+table.TableOverride-4 {
+	border-collapse:collapse;
+	border-width:1px;
+	margin-bottom:6px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:9px;
+}
+table.TableOverride-5 {
+	border-collapse:collapse;
+	border-width:1px;
+	margin-bottom:6px;
+	margin-top:6px;
+}
+table.TableOverride-6 {
+	border-collapse:collapse;
+	border-width:1px;
+	margin-bottom:6px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:6px;
+}
+table.TableOverride-7 {
+	border-collapse:collapse;
+	border-width:1px;
+	margin-bottom:6px;
+	margin-top:0px;
+}
+table.TableOverride-8 {
+	border-collapse:collapse;
+	margin-bottom:6px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:9px;
+}
+table.TableOverride-9 {
+	border-collapse:collapse;
+	margin-bottom:6px;
+	margin-top:9px;
+}
+td.CellOverride-1 {
+	background-color:#bfbfbf;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-2 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-3 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-4 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-5 {
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-6 {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-7 {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-8 {
+	background-color:#fbe7ca;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-9 {
+	background-color:#fbe7ca;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-10 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-11 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-12 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-13 {
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-14 {
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-15 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-16 {
+	background-color:#fae1bf;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-17 {
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-18 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-19 {
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:none;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:none;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-20 {
+	border-bottom-color:#000000;
+	border-bottom-style:double;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:none;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:none;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-21 {
+	background-color:#fcecd5;
+	border-bottom-width:1px;
+	border-right-width:0px;
+	padding-bottom:3px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-22 {
+	background-color:#fcecd5;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-23 {
+	background-color:#fcecd5;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-24 {
+	background-color:#fcecd5;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-25 {
+	background-color:#fcecd5;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-26 {
+	background-color:#fbe7ca;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-27 {
+	background-color:#fbe7ca;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-28 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-29 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-30 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-31 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-32 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-33 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-34 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-35 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-36 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-37 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-38 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-39 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-40 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-41 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-42 {
+	background-color:#fae1bf;
+	border-bottom-width:1px;
+	border-right-width:1px;
+	padding-bottom:6px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-43 {
+	background-color:#fae1bf;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	padding-bottom:6px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-44 {
+	border-bottom-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-45 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-46 {
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-47 {
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-48 {
+	background-color:#fbe7ca;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-49 {
+	background-color:#fbe7ca;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-50 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-51 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+	vertical-align:middle;
+}
+td.CellOverride-52 {
+	background-color:#fbe7ca;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-53 {
+	background-color:#fbe7ca;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-54 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-55 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-56 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-57 {
+	background-color:#fbe7ca;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-58 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-59 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-60 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-61 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-62 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-63 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-64 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-65 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-66 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-67 {
+	background-color:#f8ddb5;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-68 {
+	background-color:#f8ddb5;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-69 {
+	background-color:#f8ddb5;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-70 {
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-71 {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-72 {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-73 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-74 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-75 {
+	background-color:#f8ddb5;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-76 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-77 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-78 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-79 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-80 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-81 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-82 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-83 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:1px;
+	padding-right:1px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-84 {
+	background-color:#fae1bf;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-85 {
+	background-color:#fef5ea;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-86 {
+	background-color:#fef5ea;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-87 {
+	background-color:#fef5ea;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-88 {
+	background-color:#fef5ea;
+	border-bottom-color:#000000;
+	border-bottom-style:double;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-89 {
+	background-color:#fae1bf;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:double;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-90 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-91 {
+	background-color:#fcecd5;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-92 {
+	background-color:#f8ddb5;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-93 {
+	background-color:#fef5ea;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:double;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+p.ParaOverride-1 {
+	margin-top:5px;
+}
+p.ParaOverride-2 {
+	margin-bottom:10px;
+	margin-top:10px;
+}
+p.ParaOverride-3 {
+	list-style-type:none;
+}
+p.ParaOverride-4 {
+	-epub-hyphens:none;
+}
+p.ParaOverride-5 {
+	-epub-hyphens:none;
+	text-align:center;
+}
+p.ParaOverride-6 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+}
+p.ParaOverride-7 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	text-align:center;
+}
+p.ParaOverride-8 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	text-align:right;
+}
+p.ParaOverride-9 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	margin-left:9px;
+}
+p.ParaOverride-10 {
+	text-align:center;
+	text-indent:0px;
+}
+p.ParaOverride-11 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	margin-bottom:10px;
+	text-align:center;
+}
+p.ParaOverride-12 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	margin-bottom:10px;
+	text-align:right;
+}
+p.ParaOverride-13 {
+	text-align:center;
+}
+p.ParaOverride-14 {
+	-epub-hyphens:none;
+	text-align:right;
+}
+p.ParaOverride-15 {
+	-epub-hyphens:none;
+	margin-left:9px;
+}
+p.ParaOverride-16 {
+	margin-top:11px;
+	text-align:center;
+	text-indent:0px;
+}
+p.ParaOverride-17 {
+	margin-bottom:10px;
+	text-align:center;
+}
+p.ParaOverride-18 {
+	margin-bottom:10px;
+	text-align:justify;
+	text-align-last:left;
+}
+p.ParaOverride-19 {
+	text-align:left;
+	text-indent:0px;
+}
+p.ParaOverride-20 {
+	list-style-type:none;
+	margin-top:0px;
+}
+p.ParaOverride-21 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	margin-right:3px;
+	text-align:right;
+}
+p.ParaOverride-22 {
+	text-align:left;
+}
+p.ParaOverride-23 {
+	margin-bottom:9px;
+}
+p.ParaOverride-24 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+	margin-bottom:10px;
+}
+p.ParaOverride-25 {
+	margin-top:6px;
+}
+span.CharOverride-1 {
+	font-size:6px;
+}
+span.CharOverride-2 {
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-family:Wingdings, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:600;
+}
+span.CharOverride-5 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-7 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.CharOverride-8 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:8px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-10 {
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:9px;
+	font-style:italic;
+	font-weight:600;
+}
+span.CharOverride-11 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:9px;
+	font-style:italic;
+	font-weight:bold;
+}
+span.CharOverride-12 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:9px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-13 {
+	font-size:9px;
+}
+span.CharOverride-14 {
+	font-size:5px;
+}
+td._idGenCellOverride-1 {
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-2 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+col._idGenTableRowColumn-1 {
+	width:17px;
+}
+col._idGenTableRowColumn-2 {
+	width:184px;
+}
+col._idGenTableRowColumn-3 {
+	width:28px;
+}
+tr._idGenTableRowColumn-4 {
+	min-height:20px;
+}
+tr._idGenTableRowColumn-5 {
+	min-height:22px;
+}
+col._idGenTableRowColumn-6 {
+	width:23px;
+}
+col._idGenTableRowColumn-7 {
+	width:108px;
+}
+col._idGenTableRowColumn-8 {
+	width:40px;
+}
+tr._idGenTableRowColumn-9 {
+	min-height:14px;
+}
+tr._idGenTableRowColumn-10 {
+	min-height:10px;
+}
+tr._idGenTableRowColumn-11 {
+	min-height:19px;
+}
+tr._idGenTableRowColumn-12 {
+	min-height:11px;
+}
+col._idGenTableRowColumn-13 {
+	width:34px;
+}
+col._idGenTableRowColumn-14 {
+	width:60px;
+}
+tr._idGenTableRowColumn-15 {
+	min-height:38px;
+}
+tr._idGenTableRowColumn-16 {
+	min-height:12px;
+}
+col._idGenTableRowColumn-17 {
+	width:62px;
+}
+col._idGenTableRowColumn-18 {
+	width:11px;
+}
+col._idGenTableRowColumn-19 {
+	width:113px;
+}
+col._idGenTableRowColumn-20 {
+	width:6px;
+}
+col._idGenTableRowColumn-21 {
+	width:116px;
+}
+col._idGenTableRowColumn-22 {
+	width:38px;
+}
+tr._idGenTableRowColumn-23 {
+	min-height:16px;
+}
+col._idGenTableRowColumn-24 {
+	width:122px;
+}
+col._idGenTableRowColumn-25 {
+	width:142px;
+}
+tr._idGenTableRowColumn-26 {
+	min-height:18px;
+}
+tr._idGenTableRowColumn-27 {
+	min-height:21px;
+}
+col._idGenTableRowColumn-28 {
+	width:26px;
+}
+col._idGenTableRowColumn-29 {
+	width:37px;
+}
+tr._idGenTableRowColumn-30 {
+	min-height:28px;
+}
+col._idGenTableRowColumn-31 {
+	width:57px;
+}
+col._idGenTableRowColumn-32 {
+	width:71px;
+}
+col._idGenTableRowColumn-33 {
+	width:85px;
+}
+col._idGenTableRowColumn-34 {
+	width:43px;
+}
+col._idGenTableRowColumn-35 {
+	width:96px;
+}
+col._idGenTableRowColumn-36 {
+	width:45px;
+}
+#_idContainer000, #_idContainer001, #_idContainer002, #_idContainer003, #_idContainer004, #_idContainer005, #_idContainer006, #_idContainer007, #_idContainer008 {
+	display:inline-block;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+hr.HorizontalRule-1 {
+	border-bottom:none;
+	border-left:none;
+	border-right:none;
+	border-top:solid #000000 1px;
+}
+div._idGenObjectLayout-1 {
+	margin:4px auto 4px auto;
+	text-align:center;
+}
