@@ -78,6 +78,7 @@ var
   FilesCount      : integer;
   PropertiesCount : integer;
 begin
+  FilesCount := 0;
   try
     Properties := TStringList.Create;
     FilesCount := ReapCssFilesFromFolder(RootFolderName, Properties);
